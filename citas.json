@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Ziruma",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Tito",
+    "edad": "1 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "alergia"
+  }
+]
